@@ -24,5 +24,5 @@ then type python password_checker.py
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-##Disclaimer
+## Disclaimer
 The Password Strength Checker is a tool designed to assist users in assessing the strength of their passwords. However, it is important to note that no password checker can guarantee absolute security. Users should always follow best practices for password creation, including using unique and strong passwords, enabling two-factor authentication, and regularly updating passwords. The Password Strength Checker should be used as a guide and educational resource, but the responsibility for maintaining secure passwords lies with the user.
